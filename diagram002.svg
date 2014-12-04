@@ -4,196 +4,220 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1308px" height="1024px" viewBox="0 0 1308 1024" enable-background="new 0 0 1308 1024" xml:space="preserve">
 <g transform="translate(0.5,0.5)">
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="62" cy="143" rx="60" ry="60"/>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="62" cy="143" rx="56" ry="56"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="62" cy="143" rx="60" ry="60"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="62" cy="143" rx="56" ry="56"/>
 	<g transform="translate(23,135)">
-		<text transform="matrix(1 0 0 1 -29.0334 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -29.0334 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="162" cy="143" rx="40" ry="40"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="162" cy="143" rx="40" ry="40"/>
 	<g transform="translate(136,128)">
-		<text transform="matrix(1 0 0 1 -42.0334 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -42.0334 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="359" cy="120" rx="7.5" ry="7.5"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M359,128v25 M359,133h-15 M359,133h15
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="359" cy="120" rx="7.5" ry="7.5"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M359,128v25 M359,133h-15 M359,133h15
 		 M359,153l-15,20 M359,153l15,20"/>
 	<g transform="translate(346,180)">
-		<text transform="matrix(1 0 0 1 -54.0334 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -54.0334 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M232,43c-24,0-30,20-11,24
-		c-19,8,3,28,18,20c11,16,47,16,59,0c24,0,24-16,9-24c15-16-9-32-30-24C262,27,238,27,232,43z"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M232,43c-24,0-30,20-11,24c-19,8,3,28,18,20
+		c11,16,47,16,59,0c24,0,24-16,9-24c15-16-9-32-30-24C262,27,238,27,232,43z"/>
 	<g transform="translate(221,48)">
-		<text transform="matrix(1 0 0 1 -26.0334 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -26.0334 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M212,148v-10h90v-10l30,15l-30,15v-10H212z
-		"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M202,63h-30c-6.667,0-10,3.333-10,10v24"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M162,102l-4-7l4,2l3-2L162,102z"/>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="62" cy="513" rx="60" ry="60"/>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="62" cy="513" rx="56" ry="56"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M212,148v-10h90v-10l30,15l-30,15v-10H212z"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M202,63h-30c-6.667,0-10,3.333-10,10v24"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M162,102l-4-7l4,2l3-2L162,102z"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="62" cy="513" rx="60" ry="60"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="62" cy="513" rx="56" ry="56"/>
 	<g transform="translate(23,505)">
-		<text transform="matrix(1 0 0 1 -29.0334 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -29.0334 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="162" cy="513" rx="40" ry="40"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="162" cy="513" rx="40" ry="40"/>
 	<g transform="translate(140,505)">
-		<text transform="matrix(1 0 0 1 -46.0334 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -46.0334 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M212,518v-10h90v-10l30,15l-30,15v-10H212z
-		"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M164,473v-44"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M164,424l4,7l-4-2l-3,2L164,424z"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" d="M134,379h56c3.866,0,7,3.134,7,7v30c0,3.866-3.134,7-7,7h-56
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M212,518v-10h90v-10l30,15l-30,15v-10H212z"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M164,473v-44"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M164,424l4,7l-4-2l-3,2L164,424z"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" d="M134,379h56c3.866,0,7,3.134,7,7v30c0,3.866-3.134,7-7,7h-56
 		c-3.866,0-7-3.134-7-7v-30C127,382.134,130.134,379,134,379z"/>
 	<g transform="translate(131,386)">
-		<text transform="matrix(1 0 0 1 -37.0334 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -37.0334 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" d="M204,379h56c3.866,0,7,3.134,7,7v30c0,3.866-3.134,7-7,7h-56
+	<path pointer-events="none" fill="none" stroke="#FF1515" d="M204,379h56c3.866,0,7,3.134,7,7v30c0,3.866-3.134,7-7,7h-56
 		c-3.866,0-7-3.134-7-7v-30C197,382.134,200.134,379,204,379z"/>
 	<g transform="translate(211,386)">
-		<text transform="matrix(1 0 0 1 -46.0334 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -46.0334 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" d="M274,379h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
+	<path pointer-events="none" fill="none" stroke="#FF1515" d="M274,379h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
 		c-3.866,0-7-3.134-7-7v-30C267,382.134,270.134,379,274,379z"/>
 	<g transform="translate(278,386)">
-		<text transform="matrix(1 0 0 1 -43.0334 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -43.0334 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="359" cy="490" rx="7.5" ry="7.5"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M359,498v25 M359,503h-15 M359,503h15
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="359" cy="490" rx="7.5" ry="7.5"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M359,498v25 M359,503h-15 M359,503h15
 		 M359,523l-15,20 M359,523l15,20"/>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="389" cy="510" rx="7.5" ry="7.5"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M389,518v25 M389,523h-15 M389,523h15
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="389" cy="510" rx="7.5" ry="7.5"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M389,518v25 M389,523h-15 M389,523h15
 		 M389,543l-15,20 M389,543l15,20"/>
 	<g transform="translate(373,570)">
-		<text transform="matrix(1 0 0 1 -51.0334 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -51.0334 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="419" cy="490" rx="7.5" ry="7.5"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M419,498v25 M419,503h-15 M419,503h15
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="419" cy="490" rx="7.5" ry="7.5"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M419,498v25 M419,503h-15 M419,503h15
 		 M419,523l-15,20 M419,523l15,20"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M304,423c0,40-15,60-45,60s-49.334,0-58,0"
-		/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M195,483l7-4l-1,4l1,3L195,483z"/>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="62" cy="923" rx="60" ry="60"/>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="62" cy="923" rx="56" ry="56"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M304,423c0,40-15,60-45,60s-49.334,0-58,0"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M195,483l7-4l-1,4l1,3L195,483z"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="62" cy="923" rx="60" ry="60"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="62" cy="923" rx="56" ry="56"/>
 	<g transform="translate(23,915)">
-		<text transform="matrix(1 0 0 1 -29.0334 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -29.0334 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="142" cy="983" rx="40" ry="40"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="142" cy="983" rx="40" ry="40"/>
 	<g transform="translate(116,968)">
-		<text transform="matrix(1 0 0 1 -42.0334 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -42.0334 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="362" cy="813" rx="40" ry="40"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="362" cy="813" rx="40" ry="40"/>
 	<g transform="translate(336,798)">
-		<text transform="matrix(1 0 0 1 -42.0334 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -42.0334 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M192,988v-10h90v-10l30,15l-30,15v-10H192z
-		"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M313,822l4,9l-154,61l4,10l-34-3l23-25l3,9
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M192,988v-10h90v-10l30,15l-30,15v-10H192z"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M313,822l4,9l-154,61l4,10l-34-3l23-25l3,9
 		L313,822z"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M332,883c-24,0-30,20-11,24
-		c-19,8,3,28,18,20c11,16,47,16,59,0c24,0,24-16,9-24c15-16-9-32-30-24C362,867,338,867,332,883z"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M332,883c-24,0-30,20-11,24c-19,8,3,28,18,20
+		c11,16,47,16,59,0c24,0,24-16,9-24c15-16-9-32-30-24C362,867,338,867,332,883z"/>
 	<g transform="translate(326,895)">
-		<text transform="matrix(1 0 0 1 -31.0334 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -31.0334 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M304,903c-20,0-38.334,10-55,30
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M304,903c-20,0-38.334,10-55,30
 		c-16.667,19.333-36,29-58,29"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M185,962l7-3l-1,3l1,4L185,962z"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" d="M424,789h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M185,962l7-3l-1,3l1,4L185,962z"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" d="M424,789h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
 		c-3.866,0-7-3.134-7-7v-30C417,792.134,420.134,789,424,789z"/>
 	<g transform="translate(419,803)">
-		<text transform="matrix(1 0 0 1 -34.0334 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -34.0334 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" d="M494,789h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
+	<path pointer-events="none" fill="none" stroke="#FF1515" d="M494,789h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
 		c-3.866,0-7-3.134-7-7v-30C487,792.134,490.134,789,494,789z"/>
 	<g transform="translate(497,803)">
-		<text transform="matrix(1 0 0 1 -42.0334 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -42.0334 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M524,843c0,40-11.667,60-35,60
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M524,843c0,40-11.667,60-35,60
 		c-23.334,0-46,0-68,0"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M415,903l7-4l-1,4l1,3L415,903z"/>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="892" cy="513" rx="60" ry="60"/>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="892" cy="513" rx="56" ry="56"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M415,903l7-4l-1,4l1,3L415,903z"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="892" cy="513" rx="60" ry="60"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="892" cy="513" rx="56" ry="56"/>
 	<g transform="translate(853,505)">
-		<text transform="matrix(1 0 0 1 -29.033 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -29.033 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="1132" cy="513" rx="40" ry="40"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="1132" cy="513" rx="40" ry="40"/>
 	<g transform="translate(1110,505)">
-		<text transform="matrix(1 0 0 1 -46.033 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -46.033 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M1082,508v10h-90v10l-30-15l30-15v10H1082z
-		"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M1134,473v-44"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M1134,424l4,7l-4-2l-3,2L1134,424z"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" d="M1104,379h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M1082,508v10h-90v10l-30-15l30-15v10H1082z"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M1134,473v-44"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M1134,424l4,7l-4-2l-3,2L1134,424z"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" d="M1104,379h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
 		c-3.866,0-7-3.134-7-7v-30C1097,382.134,1100.134,379,1104,379z"/>
 	<g transform="translate(1101,386)">
-		<text transform="matrix(1 0 0 1 -37.033 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -37.033 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" d="M1174,379h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
+	<path pointer-events="none" fill="none" stroke="#FF1515" d="M1174,379h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
 		c-3.866,0-7-3.134-7-7v-30C1167,382.134,1170.134,379,1174,379z"/>
 	<g transform="translate(1177,386)">
-		<text transform="matrix(1 0 0 1 -42.033 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -42.033 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" d="M1244,379h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
+	<path pointer-events="none" fill="none" stroke="#FF1515" d="M1244,379h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
 		c-3.866,0-7-3.134-7-7v-30C1237,382.134,1240.134,379,1244,379z"/>
 	<g transform="translate(1251,386)">
-		<text transform="matrix(1 0 0 1 -47.033 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -47.033 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M1274,423c0,40-15,60-45,60s-49.334,0-58,0
-		"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M1165,483l7-4l-1,4l1,3L1165,483z"/>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="892" cy="143" rx="60" ry="60"/>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="892" cy="143" rx="56" ry="56"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M1274,423c0,40-15,60-45,60s-49.334,0-58,0"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M1165,483l7-4l-1,4l1,3L1165,483z"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="892" cy="143" rx="60" ry="60"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="892" cy="143" rx="56" ry="56"/>
 	<g transform="translate(853,135)">
-		<text transform="matrix(1 0 0 1 -29.033 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -29.033 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="1179" cy="100" rx="7.5" ry="7.5"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M1179,108v25 M1179,113h-15 M1179,113h15
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="1179" cy="100" rx="7.5" ry="7.5"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M1179,108v25 M1179,113h-15 M1179,113h15
 		 M1179,133l-15,20 M1179,133l15,20"/>
 	<g transform="translate(1166,160)">
-		<text transform="matrix(1 0 0 1 -54.033 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -54.033 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M1062,124l1,10l-68,8l1,10l-32-11l28-18
-		l1,9L1062,124z"/>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="901" cy="243" rx="40" ry="40"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M1062,124l1,10l-68,8l1,10l-32-11l28-18l1,9
+		L1062,124z"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="901" cy="243" rx="40" ry="40"/>
 	<g transform="translate(875,228)">
-		<text transform="matrix(1 0 0 1 -42.033 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -42.033 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M952,244l-3-9l185-56l-2-9l33,5l-25,23
-		l-3-9L952,244z"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M971,43c-24,0-30,20-11,24
-		c-19,8,3,28,18,20c11,16,47,16,59,0c24,0,24-16,9-24c15-16-9-32-30-24C1001,27,977,27,971,43z"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M952,244l-3-9l185-56l-2-9l33,5l-25,23l-3-9
+		L952,244z"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M971,43c-24,0-30,20-11,24c-19,8,3,28,18,20
+		c11,16,47,16,59,0c24,0,24-16,9-24c15-16-9-32-30-24C1001,27,977,27,971,43z"/>
 	<g transform="translate(965,55)">
-		<text transform="matrix(1 0 0 1 -31.033 15)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -31.033 15)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M941,60
-		c-71.334-4.667-115.334,14.667-132,58c-16.667,43.333-0.334,77.333,49,102"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M863,222h-8l3-2v-4L863,222z"/>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="1112" cy="123" rx="40" ry="40"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M941,60c-71.334-4.667-115.334,14.667-132,58
+		c-16.667,43.333-0.334,77.333,49,102"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M863,222h-8l3-2v-4L863,222z"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="1112" cy="123" rx="40" ry="40"/>
 	<g transform="translate(1087,108)">
-		<text transform="matrix(1 0 0 1 -42.033 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -42.033 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" d="M1149,2h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
+	<path pointer-events="none" fill="none" stroke="#FF1515" d="M1149,2h56c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-56
 		c-3.866,0-7-3.134-7-7V9C1142,5.134,1145.134,2,1149,2z"/>
 	<g transform="translate(1156,10)">
-		<text transform="matrix(1 0 0 1 -46.033 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -46.033 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" d="M1071,2h64c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-64
+	<path pointer-events="none" fill="none" stroke="#FF1515" d="M1071,2h64c3.865,0,7,3.134,7,7v30c0,3.866-3.135,7-7,7h-64
 		c-3.866,0-7-3.134-7-7V9C1064,5.134,1067.134,2,1071,2z"/>
 	<g transform="translate(1064,10)">
-		<text transform="matrix(1 0 0 1 -29.033 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -29.033 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M1076,106l-26-11"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M1045,93h8l-3,2v4L1045,93z"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M1109,47l2,29"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M1111,81l-4-6l4,1l3-2L1111,81z"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M1177,83V53"/>
-	<path pointer-events="none" fill="#F37657" stroke="#FFFFFF" stroke-miterlimit="10" d="M1177,48l4,7l-4-2l-3,2L1177,48z"/>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="122" cy="223" rx="40" ry="40"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M1076,106l-26-11"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M1045,93h8l-3,2v4L1045,93z"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M1109,47l2,29"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M1111,81l-4-6l4,1l3-2L1111,81z"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M1177,83V53"/>
+	<path pointer-events="none" fill="none" stroke="#FF1515" stroke-miterlimit="10" d="M1177,48l4,7l-4-2l-3,2L1177,48z"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="122" cy="223" rx="40" ry="40"/>
 	<g transform="translate(97,208)">
-		<text transform="matrix(1 0 0 1 -42.0334 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -42.0334 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
-	<ellipse pointer-events="none" fill="#F37657" stroke="#FFFFFF" cx="362" cy="63" rx="40" ry="40"/>
+	<ellipse pointer-events="none" fill="none" stroke="#FF1515" cx="362" cy="63" rx="40" ry="40"/>
 	<g transform="translate(336,48)">
-		<text transform="matrix(1 0 0 1 -42.0334 22)" fill="#F37657" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
+		
+			<text transform="matrix(1 0 0 1 -42.0334 22)" fill="none" stroke="#FF1515" stroke-miterlimit="10" font-family="'ArialMT'" font-size="12">[Not supported by viewer]</text>
 	</g>
 </g>
 </svg>
